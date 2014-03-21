@@ -10,3 +10,4 @@
  */
 
 /* our new php file for the reddit reader. insert amazing content. */
+?>
